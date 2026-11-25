@@ -11,6 +11,9 @@ transfer and power actions. The user interface is in French for now.
 This repository holds no source code. It is only a distribution point: the
 application looks for its updates here and applies them on its own.
 
+**Source code:** [dch-builds/mesh-control](https://github.com/dch-builds/mesh-control)
+(MIT License). You can read it, build it yourself and report issues there.
+
 ### Installation
 
 Download `MeshControl-win-Setup.exe` from the
@@ -50,6 +53,10 @@ transfert de fichiers et actions d'alimentation.
 Ce dépôt ne contient aucun code source. Il sert uniquement de point de
 distribution : l'application y cherche ses mises à jour et les applique
 elle-même.
+
+**Code source :** [dch-builds/mesh-control](https://github.com/dch-builds/mesh-control)
+(licence MIT). Vous pouvez le lire, le compiler vous-même et y signaler les
+problèmes.
 
 ### Installation
 
