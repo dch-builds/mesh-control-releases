@@ -1,4 +1,4 @@
-# Mesh Control — distribution
+# Mesh Control (distribution)
 
 *[English](#english) · [Français](#français)*
 
@@ -15,7 +15,7 @@ application looks for its updates here and applies them on its own.
 
 Download `MeshControl-win-Setup.exe` from the
 [latest release](../../releases/latest) and run it. Installing requires no
-administrator rights — it goes into the user's profile.
+administrator rights: it goes into the user's profile.
 
 > Windows shows a SmartScreen warning on first launch, as the executable is not
 > digitally signed. Click "More info", then "Run anyway".
@@ -23,7 +23,7 @@ administrator rights — it goes into the user's profile.
 ### Updates
 
 Once installed, the application checks for new versions on its own and only
-downloads what changed — a few hundred kilobytes instead of the whole
+downloads what changed: a few hundred kilobytes instead of the whole
 installer.
 
 ### License and notices
@@ -55,7 +55,7 @@ elle-même.
 
 Télécharger `MeshControl-win-Setup.exe` depuis la
 [dernière version](../../releases/latest) et l'exécuter. L'installation ne
-demande aucun droit administrateur — elle se fait dans le profil de
+demande aucun droit administrateur : elle se fait dans le profil de
 l'utilisateur.
 
 > Windows affiche un avertissement SmartScreen au premier lancement,
@@ -65,7 +65,7 @@ l'utilisateur.
 ### Mises à jour
 
 Une fois installée, l'application vérifie seule les nouvelles versions et ne
-télécharge que ce qui a changé — quelques centaines de kilooctets plutôt que
+télécharge que ce qui a changé : quelques centaines de kilooctets plutôt que
 l'installeur entier.
 
 ### Licence et mentions
